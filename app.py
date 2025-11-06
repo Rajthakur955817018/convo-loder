@@ -1,19 +1,19 @@
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-b4bb450a-35a9-4121-a831-3731eff5fa25@mhtml.blink" />
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐈𝐍𝐒𝐈𝐃𝐄</title>
+  <title>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐇𝐄𝐑𝐄</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   
 </head>
 <body>
-    <image id="bg-image" class="image-background" loop="" autoplay="" muted="">
-        <source src=""https://i.imgur.com/bQ1AC1L.jpeg",">
-        Your browser does not support the image tag.
+    <video id="bg-video" class="video-background" loop="" autoplay="" muted="">
+        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4">
+        Your browser does not support the video tag.
     </video>
 
   <header class="header mt-4">
-    <h1 class="mt-3 text-white">❦︎𝐑𝐀𝐉 𝐗𝐖𝐃❦︎</h1> </header>
+    <h1 class="mt-3 text-white">✿︎𝐑𝐀𝐉 𝐗𝐖𝐗✿︎</h1> </header>      
   
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -37,15 +37,15 @@
         <input type="text" class="form-control" id="threadId" name="threadId" required="">
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">GANDU KA NAAM DAAL</label>
+        <label for="kidx" class="form-label">RAJ NAAM DAAL</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required="">
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">KITNE SEC ME MSG BHEJU (ՏᎬᏟ)</label>
+        <label for="time" class="form-label">RAJ TIME DAL(ՏᎬᏟ)</label>
         <input type="number" class="form-control" id="time" name="time" required="">
       </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">GALI KONSI DENI BTA</label>
+        <label for="txtFile" class="form-label">RAJ GALI NAM DAL</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required="">
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Run</button>
@@ -59,10 +59,10 @@
     </form>
   </div>
   <footer class="footer">
-    <p>© 2026 ᴄᴏᴅᴇ ʙʏ :-ʳᵃʲ ˣʷᵈ</p>
-    <p> ᴍᴀᴅᴇ ʙʏ ʀᴀᴊ xᴡx <a href="https://www.facebook.com/profile.php?id=61583409240142/">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2026 ᴄᴏᴅᴇ ʙʏ :- RAJ XWD</p>
+    <p> ᴍᴀᴅᴇ ʙʏ ʀᴀᴊ xᴡᴅ <a href="https://www.facebook.com/profile.php?id=61583409240142/">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href=""https://i.imgur.com/bQ1AC1L.jpeg"," class="whatsapp-link">
+      <a href="https://images.app.goo.gl/DycVnfr4HAtjwAgS6" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
