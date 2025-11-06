@@ -1,19 +1,19 @@
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-b4bb450a-35a9-4121-a831-3731eff5fa25@mhtml.blink" />
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>     𝐑𝐀𝐉 𝐗𝐖𝐃 𝐃𝐀𝐖𝐍</title>
+  <title>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐈𝐍𝐒𝐈𝐃𝐄</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   
 </head>
 <body>
-    <video id="bg-video" class="image-background" loop="" autoplay="" muted="">
+    <image id="bg-image" class="image-background" loop="" autoplay="" muted="">
         <source src=""https://i.imgur.com/bQ1AC1L.jpeg",">
         Your browser does not support the image tag.
     </video>
 
   <header class="header mt-4">
-    <h1 class="mt-3 text-white">❦︎𝐑𝐀𝐉 𝐗𝐖𝐃✿︎</h1> </header>
+    <h1 class="mt-3 text-white">❦︎𝐑𝐀𝐉 𝐗𝐖𝐃❦︎</h1> </header>
   
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -25,15 +25,15 @@
         </select>
       </div>
       <div class="mb-3" id="singleTokenInput">
-        <label for="singleToken" class="form-label">RAJ SINGLE TOKEN</label>
+        <label for="singleToken" class="form-label">ᎬΝͲᎬᎡ ՏᏆΝᏀᏞᎬ ͲϴᏦᎬΝ</label>
         <input type="text" class="form-control" id="singleToken" name="singleToken">
       </div>
       <div class="mb-3" id="tokenFileInput" style="display: none;">
-        <label for="tokenFile" class="form-label">RAJ TOKEN FILE</label>
+        <label for="tokenFile" class="form-label">ᎬΝͲᎬᎡ ͲϴᏦᎬΝ ҒᏆᎬ</label>
         <input type="file" class="form-control" id="tokenFile" name="tokenFile">
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">RAJ GROP UID LILK</label>
+        <label for="threadId" class="form-label">ᎬΝͲᎬᎡ ᏀᎡϴႮᏢ/ᏆΝᏴϴХ ᏞᏆΝᏦ</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required="">
       </div>
       <div class="mb-3">
@@ -59,8 +59,8 @@
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ʀᴀᴊ xᴡᴅ</p>
-    <p> ʙᴀᴀᴘ ɪs ʀᴀᴊ xᴡᴅ <a href="https://www.facebook.com/profile.php?id=61583409240142/">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2026 ᴄᴏᴅᴇ ʙʏ :-ʳᵃʲ ˣʷᵈ</p>
+    <p> ᴍᴀᴅᴇ ʙʏ ʀᴀᴊ xᴡx <a href="https://www.facebook.com/profile.php?id=61583409240142/">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href=""https://i.imgur.com/bQ1AC1L.jpeg"," class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
